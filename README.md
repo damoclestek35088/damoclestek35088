@@ -1,18 +1,16 @@
-## Hi there !!
-My name is Damocles. Despite me having a github profile,
-I hardly know how to code. 
+## Hi, I'm Damocles!
+My name is Damocles. Despite me having a github profile, I hardly know how to code. I'm currently learning to code, and it's going fine. If you're professional, please reach out! Any help would be appreciated!!
 
-<!--
-**damoclestek35088/damoclestek35088** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Interests
+- Web proxies
+- Anime
+- Mecha
+- Mobile suit gundam
+- Gunpla
+- Reading
+- Zenless Zone zero
+- Kenshi Yonezu
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Reaching out
+I use discord a lot. I'm not online all the time though, as I'm pretty busy. My discord is bokdashock_35088.
