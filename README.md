@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there !!
+My name is Damocles. Despite me having a github profile,
+I hardly know how to code. 
 
 <!--
 **damoclestek35088/damoclestek35088** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
