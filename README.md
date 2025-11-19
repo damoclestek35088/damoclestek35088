@@ -11,8 +11,7 @@ My name is Damocles. Despite me having a github profile, I hardly know how to co
 - Web proxies
 - Anime
 - Mecha
-- Mobile suit gundam
-- Gunpla
+- Mobile suit Gundam/Gunpla
 - Reading
 - Zenless Zone zero
 - Kenshi Yonezu
