@@ -4,7 +4,7 @@
 </h1>
 
 
-My name is Damocles. Despite me having a github profile, I hardly know how to code. I'm currently learning to code, and it's going fine. If you're professional, please reach out! Any help would be appreciated!!
+My name is Damocles. Despite me having a github profile, I hardly know how to code. I'm currently learning to code, and it's going fine. If you're professional, please reach out! Any help would be appreciated!! I had a previous account; I kept getting stalked, so I had to create an alt.
 
 
 ## Interests
