@@ -13,8 +13,7 @@ My name is Damocles. Despite me having a github profile, I hardly know how to co
 - Mecha
 - Mobile suit Gundam/Gunpla
 - Reading
-- Zenless Zone zero
-- Kenshi Yonezu
+- Gaming
 
 ## Reaching out
 I use discord a lot. I'm not online all the time though, as I'm pretty busy. My discord is bokdashock_35088.
